@@ -14,3 +14,4 @@ La aplicación web buscará mejorar el acceso a la educación digital siguiendo 
 - [ ] **Accesibilidad:** compatible con **lectores de pantalla** para personas con discapacidad visual.
 - [ ] **Modo oscuro:** reduce el **consumo de batería** en dispositivos móviles.
 - [ ] **Material centralizado:** todos los recursos educativos estarán en **un solo lugar**.
+- [ ] **Reutilización:** los recursos educativos serán **reutilizados** en otros centros educativos.
